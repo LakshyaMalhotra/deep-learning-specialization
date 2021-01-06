@@ -64,7 +64,7 @@ __This suggests that one good avenue for improving performance is to train a big
 
 - No, because there is insufficient information to tell.
 
-(_We don't know the human level performance, so we can't say anything about the avoidable bias._)
+(_We don't know the human level performance, so we can't say anything about the avoidable bias. Avoidable Bias_ is the difference between human error (Bayes error) and training error.)
 
 __8. You ask a few people to label the dataset so as to find out what is human-level performance. You find the following levels of accuracy:__
 
